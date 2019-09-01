@@ -30,7 +30,7 @@ $edit = $update->update_user($name,$id);
 
 }
 
-else { echo "error"; }
+else { echo "You have an error"; }
 
 
 ?>
